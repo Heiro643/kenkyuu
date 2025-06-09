@@ -15,15 +15,15 @@
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 40ox;
-    padding-bottom: 80px;
+    padding-left: 40px;
+    padding-right: 80px;
     color: #ffffff;
     font-weight: bold;
     text-shadow: 1px 1px 10px #4b2c14;
 }
 
 .first-view-text h1 {
-    font-family: "Montserrat", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 56px;
     line-height: 72px;
 }
@@ -130,6 +130,18 @@ img {
 
     .header-logo {
         width: 100px;
+    }
+
+    .main {
+        padding-top: 50px;
+    }
+
+    .footer-logo {
+        margin-top: 60px;
+    }
+
+    .copyright {
+        margin-top: 50px;
     }
 }
 
